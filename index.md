@@ -5,6 +5,7 @@ permalink: /
 ---
 
 TEMPORARY DOCUMENTATION
+
 Will be MOVED to https://mpdf.github.io/ if mPDF version 7.0 is final!
 
 mPDF is a PHP library which generates PDF files from UTF-8 encoded HTML.
